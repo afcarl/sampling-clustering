@@ -1,3 +1,6 @@
 [submodule "data"]
 	path = data
 	url = git@github.com:ctarn/clustering-datasets.git
+[submodule "clearn"]
+	path = clearn
+	url = git@github.com:ctarn/clearn.git
